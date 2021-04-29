@@ -21,5 +21,5 @@
     BEHAVIOR: (communication between objects of different types)
 
     Chain-of-responsability - in class return this and can chain methods
-    Command - 
+    Command 
 **/
