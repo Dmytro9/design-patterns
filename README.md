@@ -28,3 +28,5 @@ Show different ways of building relationships between objects.
 ## Structural:
 
 Take care of effective communication between objects.
+
+- #### Adapter
